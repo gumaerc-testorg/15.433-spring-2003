@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Assignment 5: Performance Attribution'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-433-investments-spring-2003/95954b9066d5b16515ea2cfddd33158b_15433_assignment_5_solution.pdf
+file: /media/courses/15-433-investments-spring-2003/95954b9066d5b16515ea2cfddd33158b_15433_assignment_5_solution.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 15433_assignment_5_solution.pdf
 uid: 95954b90-66d5-b165-15ea-2cfddd33158b
