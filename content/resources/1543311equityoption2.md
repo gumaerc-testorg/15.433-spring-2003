@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4be1f884-d157-9503-db44-b340309e0537
 resourcetype: Document
 title: 1543311equityoption2.pdf
 uid: 9e76a832-1417-c8be-3dd9-7b8d5dfef7f5

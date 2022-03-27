@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a0839110-e72c-4c01-b9dc-9ae6137bbe87
 resourcetype: Document
 title: quizmarch_11_solutions.pdf
 uid: 14a08a08-5c3c-6bff-9da6-12135847861b

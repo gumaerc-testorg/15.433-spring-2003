@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4be1f884-d157-9503-db44-b340309e0537
 resourcetype: Document
 title: 154332random_walk.pdf
 uid: c5845cd9-81c2-e63f-7ff3-03c92c7d41be

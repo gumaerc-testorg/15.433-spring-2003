@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4be1f884-d157-9503-db44-b340309e0537
 resourcetype: Document
 title: 154334portfolio2.pdf
 uid: 64364800-d3b1-5fcd-b618-e844e9ba25b7

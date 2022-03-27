@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a0839110-e72c-4c01-b9dc-9ae6137bbe87
 resourcetype: Document
 title: quizfebruary_27_solutions.pdf
 uid: 9a9f5758-d36a-57bc-570c-693d33157e99

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a0839110-e72c-4c01-b9dc-9ae6137bbe87
 resourcetype: Document
 title: quizapril_1_solutions.pdf
 uid: 5db22828-d7c8-ffbe-1479-5b277207b091

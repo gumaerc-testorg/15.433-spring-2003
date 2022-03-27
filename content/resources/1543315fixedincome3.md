@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4be1f884-d157-9503-db44-b340309e0537
 resourcetype: Document
 title: 1543315fixedincome3.pdf
 uid: abfe7b1a-57a6-6c6d-af4c-6380b8ef617e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a0839110-e72c-4c01-b9dc-9ae6137bbe87
 resourcetype: Document
 title: 15433spring03_mid_term_solution.pdf
 uid: d60c8e97-3d5c-c46c-0124-4cc20af1967f
