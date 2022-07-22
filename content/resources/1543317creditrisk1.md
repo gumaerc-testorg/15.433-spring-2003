@@ -5,6 +5,7 @@ file: /courses/15-433-investments-spring-2003/08ceba70b1a9e8969c47f667a7a3de11_1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 1543317creditrisk1.pdf
 uid: 08ceba70-b1a9-e896-9c47-f667a7a3de11
 ---
 Class 17: The Credit Market. Part 1: Modeling Default Risk
-

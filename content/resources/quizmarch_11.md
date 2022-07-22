@@ -5,6 +5,7 @@ file: /courses/15-433-investments-spring-2003/3f23dec58b291f1cc282638408dc6350_q
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quizmarch_11.pdf
 uid: 3f23dec5-8b29-1f1c-c282-638408dc6350
 ---
 Quiz For Lecture # 10
-

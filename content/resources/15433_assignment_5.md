@@ -5,6 +5,7 @@ file: /courses/15-433-investments-spring-2003/c496be88922f9dc7329c61cfa83ec3f7_1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 15433_assignment_5.pdf
 uid: c496be88-922f-9dc7-329c-61cfa83ec3f7
 ---
 Assignment 5: Performance Attribution
-

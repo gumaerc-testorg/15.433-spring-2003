@@ -5,6 +5,7 @@ file: /courses/15-433-investments-spring-2003/baac721e3420718909155750806a990b_q
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quizMarch_13.pdf
 uid: baac721e-3420-7189-0915-5750806a990b
 ---
 Quiz for Lecture #11
-

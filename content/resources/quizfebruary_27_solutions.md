@@ -5,6 +5,7 @@ file: /courses/15-433-investments-spring-2003/9a9f5758d36a57bc570c693d33157e99_q
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quizfebruary_27_solutions.pdf
 uid: 9a9f5758-d36a-57bc-570c-693d33157e99
 ---
 Quiz For Lecture # 7
-

@@ -5,6 +5,7 @@ file: /courses/15-433-investments-spring-2003/8a8bd6fa0d1261b937b2e3032b0816fb_1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 15433_assignment_4.pdf
 uid: 8a8bd6fa-0d12-61b9-37b2-e3032b0816fb
 ---
 Assignment 4: Option Simulation
-

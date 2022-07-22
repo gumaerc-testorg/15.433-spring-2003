@@ -5,6 +5,7 @@ file: /courses/15-433-investments-spring-2003/64364800d3b15fcdb618e844e9ba25b7_1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 154334portfolio2.pdf
 uid: 64364800-d3b1-5fcd-b618-e844e9ba25b7
 ---
 Class 4: Portfolio Theory. Part 2: Extensions
-

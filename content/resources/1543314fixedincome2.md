@@ -6,6 +6,7 @@ file: /courses/15-433-investments-spring-2003/5997158d2e3cbd743504709197ca513f_1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 1543314fixedincome2.pdf
 uid: 5997158d-2e3c-bd74-3504-709197ca513f
 ---
 Class 14: The Fixed Income Market. Part 2: Time Varying Interest Rates and Yield Curves
-

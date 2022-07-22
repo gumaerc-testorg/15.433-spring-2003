@@ -5,6 +5,7 @@ file: /courses/15-433-investments-spring-2003/a6e0be5985b9baf8fa62fb67a98d4448_Q
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: QuizMarch_7.pdf
 uid: a6e0be59-85b9-baf8-fa62-fb67a98d4448
 ---
 Quiz On The Day After Lecture # 9
-
