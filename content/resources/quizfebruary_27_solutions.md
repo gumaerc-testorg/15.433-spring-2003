@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Quiz For Lecture # 7'
 file: /courses/15-433-investments-spring-2003/9a9f5758d36a57bc570c693d33157e99_quizfebruary_27_solutions.pdf
+file_size: 76075
 file_type: application/pdf
 learning_resource_types:
 - Exams

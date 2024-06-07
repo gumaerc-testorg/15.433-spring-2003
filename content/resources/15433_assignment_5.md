@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignment 5: Performance Attribution'
 file: /courses/15-433-investments-spring-2003/c496be88922f9dc7329c61cfa83ec3f7_15433_assignment_5.pdf
+file_size: 74062
 file_type: application/pdf
 learning_resource_types:
 - Assignments
