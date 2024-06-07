@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Class 20: Active Portfolio Management'
 file: /courses/15-433-investments-spring-2003/85f4eff20857d0e5e7ff0b5cc80d522f_15433_20a_active_management.pdf
+file_size: 266275
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

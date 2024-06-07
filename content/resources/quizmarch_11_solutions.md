@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Quiz For Lecture # 10'
 file: /courses/15-433-investments-spring-2003/14a08a085c3c6bff9da612135847861b_quizmarch_11_solutions.pdf
+file_size: 77288
 file_type: application/pdf
 learning_resource_types:
 - Exams

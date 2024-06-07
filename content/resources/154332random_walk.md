@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Class 2: Securities, Random Walk on Wall Street'
 file: /courses/15-433-investments-spring-2003/c5845cd981c2e63f7ff303c92c7d41be_154332random_walk.pdf
+file_size: 240889
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
