@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignment 2: Security Analysis'
 file: /courses/15-433-investments-spring-2003/a3dacf12a5f078d7acc44d622a8ac68f_15433_assignment_2.PDF
+file_size: 371272
 file_type: application/pdf
 learning_resource_types:
 - Assignments
