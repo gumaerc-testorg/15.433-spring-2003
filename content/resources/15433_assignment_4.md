@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 4: Option Simulation'
-file: /courses/15-433-investments-spring-2003/8a8bd6fa0d1261b937b2e3032b0816fb_15433_assignment_4.pdf
+file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/8a8bd6fa0d1261b937b2e3032b0816fb_15433_assignment_4.pdf
 file_size: 41211
 file_type: application/pdf
 learning_resource_types:

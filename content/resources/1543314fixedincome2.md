@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Class 14: The Fixed Income Market. Part 2: Time Varying Interest Rates
   and Yield Curves'
-file: /courses/15-433-investments-spring-2003/5997158d2e3cbd743504709197ca513f_1543314fixedincome2.pdf
+file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/5997158d2e3cbd743504709197ca513f_1543314fixedincome2.pdf
 file_size: 144936
 file_type: application/pdf
 learning_resource_types:
