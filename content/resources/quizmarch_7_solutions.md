@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Quiz On The Day Before Lecture # 9'
-file: /courses/15-433-investments-spring-2003/20138a5b83e98f92fe6755e8cba05460_QuizMarch_7_solutions.pdf
+file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/20138a5b83e98f92fe6755e8cba05460_QuizMarch_7_solutions.pdf
 file_size: 72021
 file_type: application/pdf
 learning_resource_types:
