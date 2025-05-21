@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Class 16: Risk Management'
-file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/2bca024b70143e5d8f63df171c30e83f_1543316riskmanagement.pdf
+file: /courses/15-433-investments-spring-2003/2bca024b70143e5d8f63df171c30e83f_1543316riskmanagement.pdf
 file_size: 189715
 file_type: application/pdf
 learning_resource_types:

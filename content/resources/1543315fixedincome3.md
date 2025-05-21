@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Classe 15: Forwards, Futures & Swaps'
-file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/abfe7b1a57a66c6daf4c6380b8ef617e_1543315fixedincome3.pdf
+file: /courses/15-433-investments-spring-2003/abfe7b1a57a66c6daf4c6380b8ef617e_1543315fixedincome3.pdf
 file_size: 359764
 file_type: application/pdf
 learning_resource_types:
