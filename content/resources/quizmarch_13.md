@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Quiz for Lecture #11'
-file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/baac721e3420718909155750806a990b_quizMarch_13.pdf
+file: /courses/15-433-investments-spring-2003/baac721e3420718909155750806a990b_quizMarch_13.pdf
 file_size: 68603
 file_type: application/pdf
 learning_resource_types:

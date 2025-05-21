@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mid-Term Spring 2003
-file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/d60c8e973d5cc46c01244cc20af1967f_15433spring03_mid_term_solution.pdf
+file: /courses/15-433-investments-spring-2003/d60c8e973d5cc46c01244cc20af1967f_15433spring03_mid_term_solution.pdf
 file_size: 158913
 file_type: application/pdf
 learning_resource_types:

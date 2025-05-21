@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Class 4: Portfolio Theory. Part 2: Extensions'
-file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/64364800d3b15fcdb618e844e9ba25b7_154334portfolio2.pdf
+file: /courses/15-433-investments-spring-2003/64364800d3b15fcdb618e844e9ba25b7_154334portfolio2.pdf
 file_size: 201035
 file_type: application/pdf
 learning_resource_types:
