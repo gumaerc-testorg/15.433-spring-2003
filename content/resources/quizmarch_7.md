@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Quiz On The Day After Lecture # 9'
-file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/a6e0be5985b9baf8fa62fb67a98d4448_QuizMarch_7.pdf
+file: /courses/15-433-investments-spring-2003/a6e0be5985b9baf8fa62fb67a98d4448_QuizMarch_7.pdf
 file_size: 39905
 file_type: application/pdf
 learning_resource_types:

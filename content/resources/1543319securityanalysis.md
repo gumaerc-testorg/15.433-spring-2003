@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Class 19: Security Analysis'
-file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/ffbc3f7faa47ea6af53d2a3efe1e29ee_1543319securityanalysis.pdf
+file: /courses/15-433-investments-spring-2003/ffbc3f7faa47ea6af53d2a3efe1e29ee_1543319securityanalysis.pdf
 file_size: 130596
 file_type: application/pdf
 learning_resource_types:

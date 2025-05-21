@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Class 10- Equity Options. Part 1: Pricing'
-file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/8a208eb589a86bf1bc8d4bffda560900_1543310equityoption1.pdf
+file: /courses/15-433-investments-spring-2003/8a208eb589a86bf1bc8d4bffda560900_1543310equityoption1.pdf
 file_size: 311982
 file_type: application/pdf
 learning_resource_types:
