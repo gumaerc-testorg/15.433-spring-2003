@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Class 21: Hedge Funds'
-file: /courses/15-433-investments-spring-2003/2c65cd619fc2e15bc0789bbecf0f7370_15433_21a_hedge_funds.pdf
+file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/2c65cd619fc2e15bc0789bbecf0f7370_15433_21a_hedge_funds.pdf
 file_size: 93183
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 5: Performance Attribution'
-file: /courses/15-433-investments-spring-2003/95954b9066d5b16515ea2cfddd33158b_15433_assignment_5_solution.pdf
+file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/95954b9066d5b16515ea2cfddd33158b_15433_assignment_5_solution.pdf
 file_size: 113353
 file_type: application/pdf
 learning_resource_types:
