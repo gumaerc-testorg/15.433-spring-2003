@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Quiz For Lecture # 6'
-file: /courses/15-433-investments-spring-2003/8bf8ddcc3be4951c65ecacb9b85311b9_quizfebruary_25_solutions.pdf
+file: /ol-ocw-studio-app/courses/15-433-investments-spring-2003/8bf8ddcc3be4951c65ecacb9b85311b9_quizfebruary_25_solutions.pdf
 file_size: 70365
 file_type: application/pdf
 learning_resource_types:
